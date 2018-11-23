@@ -1,4 +1,4 @@
-# 『生命情報向け>の機械学習入門』のテキストまとめ
+# Text of machine learning for bioinfomatics
 
 <p>土田のために<a href="https://github.com/HumanomeLab/mlcourse">『生命情報向けの機械学習入門』</a>のテキストを見れるサイトを作りました。（まぁ本家のページに行けば見られるんだけどね。）</p>
 
